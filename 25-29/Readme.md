@@ -1,5 +1,9 @@
 
-# IIT (ISM) Dhanbad Mechanical 2025-29
+# IIT (ISM) Dhanbad 2025-29
+# Semester 2
+## Engg Math 2 NMCI102
+### Quiz 1 (16.02.26)
+### Quiz 1 (20.04.26)
 # Semester 1
 ## Engg Mech NMEC101
 ### End-Sem (19.11.25)
