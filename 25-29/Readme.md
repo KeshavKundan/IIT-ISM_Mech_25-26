@@ -1,9 +1,54 @@
-
 # IIT (ISM) Dhanbad 2025-29
 # Semester 2
-## Engg Math 2 NMCI102
+## Thermo _NMEC103_
+### Quiz 2 (18.04.26)
+Time:\
+Syllabus:
+### End-Sem (30.11.25)
+Time: 11am - 1pm\
+Syllabus:
+## Engg Math 2 _NMCI102_
 ### Quiz 1 (16.02.26)
-### Quiz 1 (20.04.26)
+### Quiz 2 (20.04.26)
+Time:\
+Syllabus:
+### End-Sem (29.11.25)
+Time: 5pm - 7pm\
+Syllabus: Matrix, Vector Space, Eigen and Diff Eqn
+## Comp Prog _NCSV101_
+### Quiz 2 (--.04.26)
+Time:\
+Syllabus:
+### End-Sem (28.11.25)
+Time: 5pm - 8pm\
+Syllabus: Computing, Basics to File Handling in C
+## Comp Prog Lab _NCSV102_
+### Lab Exam
+Time: 10am - 12pm
+Syllabus: ψ(｀∇´)ψ
+## Digital Elec _NECE102_
+### Quiz 2 (--.04.26)
+Time:\
+Syllabus:
+### End-Sem (27.11.25)
+Time: 5pm - 7pm\
+Syllabus:
+## Man Pro _NMES101_
+### VIVA (22.04.26)
+Time:\
+Syllabus:
+### End-Sem (26.11.25)
+Time: 11am - 1pm\
+Syllabus:
+## UHB _NMES101_
+### Quiz 2 (--.04.26)
+Time:\
+Syllabus:
+### End-Sem (02.05.25)
+Time: 8am - 10am\
+Syllabus:
+
+---
 # Semester 1
 ## Engg Mech NMEC101
 ### End-Sem (19.11.25)
@@ -44,4 +89,3 @@ Syllabus:
 ### End-Sem (25.11.25)
 Time: 5pm - 7pm\
 Syllabus: Complete AutoCAD i.e. Lec 5-13
-ㅤ
