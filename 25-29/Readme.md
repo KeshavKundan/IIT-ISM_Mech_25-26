@@ -24,7 +24,7 @@ Time: 5pm - 8pm\
 Syllabus: Computing, Basics to File Handling in C
 ## Comp Prog Lab _NCSV102_
 ### Lab Exam
-Time: 10am - 12pm
+Time: 10am - 12pm\
 Syllabus: ψ(｀∇´)ψ
 ## Digital Elec _NECE102_
 ### Quiz 2 (--.04.26)
