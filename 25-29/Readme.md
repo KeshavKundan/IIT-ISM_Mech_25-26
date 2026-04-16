@@ -10,13 +10,13 @@ Syllabus: All Lectures (equal weightage)
 ## Engg Math 2 _NMCI102_
 ### Quiz 1 (16.02.26)
 ### Quiz 2 (20.04.26)
-Time:\
+Time: 7pm-8pm\
 Syllabus: Unit 3 & 4
 ### End-Sem (29.04.26)
 Time: 5pm - 7pm\
 Syllabus: Matrix, Vector Space, Eigen and Diff Eqn
 ## Comp Prog _NCSV101_
-### Quiz 2 (--.04.26)
+### Quiz 2 (28.04.26)
 Time:\
 Syllabus:
 ### End-Sem (28.04.26)
@@ -27,9 +27,6 @@ Syllabus: Computing, Basics to File Handling in C
 Time: 10am - 12pm\
 Syllabus: ψ(｀∇´)ψ
 ## Digital Elec _NECE102_
-### Quiz 2 (--.04.26)
-Time:\
-Syllabus:
 ### End-Sem (27.04.26)
 Time: 5pm - 7pm\
 Syllabus:
